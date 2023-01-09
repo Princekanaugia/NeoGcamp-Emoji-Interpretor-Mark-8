@@ -56,7 +56,7 @@ var emojiDictionary /*more like emojiObject */ = {
   "😫": "Tired Face",
   "😤": "Face with Steam From Nose",
   "😡": "Enraged Face",
-  "😠": "Angry Face"
+  "😠": "Angry Face",
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
@@ -75,7 +75,7 @@ export default function App() {
     ) {
       setMeaning(meaning);
     } else {
-      setMeaning("not found");
+      setMeaning("Not found, will Update it soon.");
     }
     // this process data to print in GUI
   }
@@ -107,7 +107,7 @@ export default function App() {
                 fontSize: "1.2rem",
                 padding: "1rem",
                 cursor: "pointer",
-                display: "inline"
+                display: "inline",
               }}
             >
               {emoji}
