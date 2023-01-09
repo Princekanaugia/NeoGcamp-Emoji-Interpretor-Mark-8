@@ -75,7 +75,7 @@ export default function App() {
     ) {
       setMeaning(meaning);
     } else {
-      setMeaning("not found");
+      setMeaning("Not found, will Update it soon.");
     }
     // this process data to print in GUI
   }
