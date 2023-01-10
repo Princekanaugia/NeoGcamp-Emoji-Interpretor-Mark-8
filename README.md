@@ -1,6 +1,16 @@
 # NeoGcamp-Emoji-Interpretor-Mark-8
-Emoji Interpretor app searches your emoji from our emoji directory object. it is build useing Reactjs on codesandbox. Conditional in JSX, useState() are React concept used in making this app.
+**Emoji Interpretor** app search for the meaning of the emoji you entered from our emoji **directory object**. This App was made as part of **level Zero** of **NeoGCamp**.
+ ## Technologies used
+ - HTML5
+ - CSS3
+ - JavaScript
+ - ReactJS
+ - Codesandbox
 
-more emoji data will be available soon.
+## Preview Link
+https://8qp61b.csb.app/
+### Home Page
+![homepage](https://github.com/Princekanaugia/NeoGcamp-Emoji-Interpretor-Mark-8/blob/main/image/emoji%20homep.PNG?raw=true)
 
-Try and fun with it.
+
+Hope you will like it..
