@@ -8,7 +8,7 @@
  - Codesandbox
 
 ## Preview Link
-https://8qp61b.csb.app/
+https://emojiinterpretormark8.netlify.app/
 ### Home Page
 ![homepage](https://github.com/Princekanaugia/NeoGcamp-Emoji-Interpretor-Mark-8/blob/main/image/emoji%20homep.PNG?raw=true)
 
